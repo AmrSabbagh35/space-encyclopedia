@@ -1,0 +1,59 @@
+name: space_encyclopedia
+description: General information about the Space.
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.4 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+
+  google_fonts: 
+
+
+  lottie: 
+  bubble: 
+  easy_localization: 
+  carousel_slider: 
+  flutter_animate: ^4.2.0+1
+
+  youtube_player_iframe: 
+  youtube_player_flutter: 
+  flutter_screenutil: 
+
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/images/
+    - assets/lotties/
+    - assets/languages/
+
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
