@@ -87,7 +87,7 @@ class _DetailScreenState extends State<DetailScreen> {
                   icon: Icon(
                     Icons.arrow_back,
                     size: 38.sp,
-                    color: Colors.orangeAccent.shade400,
+                    color: Colors.white,
                   ),
                 ),
               ),

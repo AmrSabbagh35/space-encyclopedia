@@ -111,16 +111,15 @@ class PlanetListView extends StatelessWidget {
                       height: 60.sp,
                       width: 60.sp,
                       decoration: BoxDecoration(
-                        color: Colors.yellow,
-                        border:
-                            Border.all(width: 10, color: Colors.grey.shade100),
+                        color: Colors.blue,
+                        border: Border.all(width: 10, color: Colors.blue),
                         borderRadius: const BorderRadius.all(
                           Radius.circular(120),
                         ),
                       ),
-                      child: Icon(
+                      child: const Icon(
                         Icons.arrow_forward_ios,
-                        color: Colors.black.withOpacity(0.75),
+                        color: Colors.white,
                       ),
                     ),
                   ),
