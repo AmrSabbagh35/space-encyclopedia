@@ -64,12 +64,15 @@ class PlanetListView extends StatelessWidget {
                       mainAxisSize: MainAxisSize.min,
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Text(
-                          planetName,
-                          style: GoogleFonts.poppins(
-                            fontSize: 23.sp,
-                            color: const Color(0xFF1946AD),
-                            fontWeight: FontWeight.w900,
+                        Hero(
+                          tag: planetName,
+                          child: Text(
+                            planetName,
+                            style: GoogleFonts.poppins(
+                              fontSize: 23.sp,
+                              color: const Color(0xFF1946AD),
+                              fontWeight: FontWeight.w900,
+                            ),
                           ),
                         ),
                         const SizedBox(height: 15),
