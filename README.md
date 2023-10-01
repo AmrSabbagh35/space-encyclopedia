@@ -17,6 +17,13 @@ The **Space Encyclopedia Flutter Project** is an interactive and educational mob
 
 ## Screenshots
 
-![s1](https://github.com/AmrSabbagh35/Quiz-app/assets/49793058/780e00fe-450e-4724-be38-662937719fe9)
-![s2](https://github.com/AmrSabbagh35/Quiz-app/assets/49793058/379f6f55-0b40-4fc6-b32e-5e75a3fe56d6)
-![s3](https://github.com/AmrSabbagh35/Quiz-app/assets/49793058/c9278034-778b-4a3a-941f-3bc7157f87e5)
+<table width="100%">
+  <tbody>
+    <tr>
+      <td width="1%"><img src="https://github.com/AmrSabbagh35/Quiz-app/assets/49793058/780e00fe-450e-4724-be38-662937719fe9"/></td>
+      <td width="1%"><img src="https://github.com/AmrSabbagh35/Quiz-app/assets/49793058/379f6f55-0b40-4fc6-b32e-5e75a3fe56d6"/></td>
+      <td width="1%"><img src="https://github.com/AmrSabbagh35/Quiz-app/assets/49793058/c9278034-778b-4a3a-941f-3bc7157f87e5"/></td>
+    </tr>
+  </tbody>
+</table>
+
